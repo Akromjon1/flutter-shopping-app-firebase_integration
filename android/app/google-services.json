@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342101207098",
+    "project_id": "delfood-c9ca2",
+    "storage_bucket": "delfood-c9ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342101207098:android:e7e914dc6eaf75c0636d03",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342101207098-2s30ge3voaiuaivka20dirai1e5lgql2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TTFBUZfGU-mc4C74dlRWUhvfTNdqwSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342101207098-2s30ge3voaiuaivka20dirai1e5lgql2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
